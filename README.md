@@ -44,7 +44,7 @@
 
     Nessa aula de POO, vamos aprender qual a importância dos modificadores de visibilidade<br> 
     público (+), privado (-) e protegido (#) na Programação Orientada a Objetos.<br>
-    ***Dura��o:** 20 minutos*
+    ***Duração:** 20 minutos*
 
 - Prática 03b: Configurando Visibilidade de Atributos e Métodos
 
@@ -61,7 +61,7 @@
 - Prática 04b: Métodos Getter, Setter e Construtor
 
     Nessa aula de POO, vamos aprender como criar em Java os Métodos Acessores (Getters),<br>
-    Métodos Modificadores (Setters) e Métodos Construtores (Construct).
+    Métodos Modificadores (Setters) e Métodos Construtores (Construct).<br>
     ***Duração:** 18 minutos*
 
 - Teoria 05a: Exemplo Prático com Objetos
@@ -85,7 +85,7 @@
 - Prática 06b: Encapsulamento
 
     Nessa aula de POO, vamos aprender como fazer Encapsulamento em Java, implementando o<br>
-    primeiro pilar da POO.
+    primeiro pilar da POO.<br>
     ***Duração:** 25 minutos*
 
 - Teoria 07a: Relacionamento entre Classes
@@ -100,14 +100,14 @@
 
 - Teoria 08a: Relacionamento de Agregação
 
-    Nessa aula de POO, vamos aprender como realizar um relacionamento de agrega��o entre<br>
+    Nessa aula de POO, vamos aprender como realizar um relacionamento de agregação entre<br>
     classes para gerar objetos ainda mais poderosos.<br>
     ***Duração:** 27 minutos*
 
 - Prática 08b: Agregação entre Objetos com Java
 
     Nessa aula de POO, vamos aprender como trabalhar com relacionamento entre classes<br>
-    criando Agrega��o na linguagem Java.<br>
+    criando Agregação na linguagem Java.<br>
     ***Duração:** 20 minutos*
 
 - Teoria 09a: Exercícios de POO
@@ -142,7 +142,7 @@
 - Prática 11b: Herança (Parte 2)
 
     Nessa aula de POO com Java, vamos aprender a colocar a Herança em prática, usando as técnicas<br>
-    de Herança de Implementação e Heran�a para Diferença.<br> 
+    de Herança de Implementação e Herança para Diferença.<br> 
     ***Duração:** 18 minutos*
 
 - Teoria 12a: Conceito Polimorfismo (Parte 1)
