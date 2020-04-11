@@ -189,5 +189,5 @@
 
     Nessa aula de POO, vamos aplicar o modelo de agregação em Classes utilizando linguagem Java. Um exercício<br>
     prático e completamente feito em Programação Orientada a Objetos.<br>
-    Duração: 15 minutos
+    ***Duração:** 15 minutos*
 
